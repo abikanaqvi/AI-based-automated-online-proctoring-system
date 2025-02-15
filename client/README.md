@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+
+=======
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using [clean-cra Template](https://github.com/JorgePasco1/cra-template-clean-cra).
 
 ## Available Scripts
@@ -66,3 +69,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+>>>>>>> 6a404828 (Initial commit)
